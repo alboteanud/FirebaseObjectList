@@ -2,8 +2,8 @@
 Firebase Object list with POJO
 ===================================
 
-Firebase Object list with POJO with createdOn property Sample
-Notice that the "Note" POJO has an "created" public Object initialised by the ServerValue.TIMESTAMP
+
+The "Note" POJO has an "created" public Object initialised by the ServerValue.TIMESTAMP
 and a public method like:
 
     public Long getCreatedTimestamp() {
