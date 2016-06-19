@@ -2,9 +2,8 @@
 Firebase Object list with POJO
 ===================================
 
-
-The "Note" POJO has an "created" public Object initialised by the ServerValue.TIMESTAMP
-and a public method like:
+The POJO ("Note") has an "created" public Object that is initialised with ServerValue.TIMESTAMP and will consequently be replaces in the server with the time.
+There is also a public method like
 
     public Long getCreatedTimestamp() {
             if (created instanceof Long) {
@@ -15,21 +14,9 @@ and a public method like:
             }
         }
 
-
 Screenshots
 -------------
-
 <img src="screenshots/phone.png" height="400" alt="Screenshot"/>
 
-Getting Started
----------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
