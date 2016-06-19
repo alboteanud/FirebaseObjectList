@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "402072230754",
+    "firebase_url": "https://recyclerview-list-firebase.firebaseio.com",
+    "project_id": "recyclerview-list-firebase",
+    "storage_bucket": "recyclerview-list-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402072230754:android:0a231ee761a4d554",
+        "android_client_info": {
+          "package_name": "com.alboteanu.recyclerviewlistwithfirabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402072230754-1imjiumva80rn0iodpg87f20eadvgqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08s2-uQCq56wsI2ubdyuSoHab6C-G5Iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402072230754:android:0f223436e9b52589",
+        "android_client_info": {
+          "package_name": "com.alboteanu.quicknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402072230754-1imjiumva80rn0iodpg87f20eadvgqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08s2-uQCq56wsI2ubdyuSoHab6C-G5Iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402072230754:android:9a435842e8908149",
+        "android_client_info": {
+          "package_name": "com.alboteanu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402072230754-1imjiumva80rn0iodpg87f20eadvgqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08s2-uQCq56wsI2ubdyuSoHab6C-G5Iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
